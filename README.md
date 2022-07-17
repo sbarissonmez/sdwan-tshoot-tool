@@ -6,6 +6,8 @@ Having a host IPv4 address as a starting point, this script attempts to:
 - Managed devices (i.e.: vEdges, cEdges) generate ICMP packets using nPing to confirm reachability towards the target host;
 - Gather operational details, such as interface, omp, or bfd, of managed devices of the site;
 
+![topology](./sdwan-fabric.jpg)
+
 The idea is to have a CLI tool able to provide as many operational details as output, with minimal information as input, such as an IP or site ID.
 The interaction with the tool is menu-based and each option is either method or collective methods. This makes it modular, so more functions can be added to the tool if needed. For example, interacting with DDI for more information on the IP.
 
