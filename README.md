@@ -31,5 +31,5 @@ cd sdwan-tshoot-tool
 pip install -r requirements.txt
 ```
 
-### Example of Toolkit being used
+### Example
 ![sdwantoolkit](./toolkit.png)
