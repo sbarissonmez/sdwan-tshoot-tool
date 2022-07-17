@@ -32,4 +32,4 @@ pip install -r requirements.txt
 ```
 
 ### Example of Toolkit being used
-![sdwantoolkit](https://user-images.githubusercontent.com/68168232/174201627-d6024e13-3f32-49be-aaaf-46d47da84cf4.png)
+![sdwantoolkit](./toolkit.png)
